@@ -1,0 +1,17 @@
+<span id="a">Bryan@Neill</span>:<span id="b">~</span><span id="c">$</span> cd BryanNeill/<!-- laglaglaglaglaglag -->About
+<span id="a">Bryan@Neill</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag --> bryanneill.txt<br/><br/>
+Hello! My name is <span id="k">Bryan Neill</span>. <!-- sjkfhskjf -->
+
+I am based in Baltimore, MD<!-- laglaglaglaglaglaglaglaglaglaglaglag --> and I build web applications.
+<p>With more than 5 years of experience, I specialize in building <span id="a">Ember.js</span> web applications in <span id="a">Javascript</span> using <span id="a">Ember.js</span>, as well as APIs in <span id="a">Node</span>, <span id="a">Java</span> and <span id="a">PHP</span>.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>Currently, I am the lead <span id="a">Front End Developer at Rendia, Inc</span> where I've built and supported multiple web applications that help doctors engage more effectively with their patients.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> You can check out <span id="a">Outcome Simulator</span>, my latest project at Rendia, <a href="https://blog.rendia.com/outcome-simulator/" target="_blank"> here</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>In addition, you can check out some of my side projects on <a href="https://github.com/bneill2" target="_blank"> GitHub</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+
+<p>In my spare time I enjoy playing golf, watching movies and seeing what's new on my favorite YouTube channel <a href="https://www.youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ" target="_blank"> Corridor Crew</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+
+<p> Here's some additional links if you'd like to get to know more about me: <br> <a href="https://www.linkedin.com/in/bryan-neill-05128033" target="_blank">LinkedIn</a> <br> <a href="/BryanNeill_resume.pdf" download>Download resume</a></p>
+
+Let's get in touch!<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:bneill92@gmail.com">neillbryan@gmail.com</a>.
+
+<p>Thanks for stopping by!</p>
